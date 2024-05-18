@@ -1,5 +1,3 @@
-Aqui está um README simples para o repositório:
-
 ---
 
 # API REST - API de Dados de Alunos
