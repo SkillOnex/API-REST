@@ -46,7 +46,7 @@ Após iniciar o servidor, você pode usar ferramentas como Postman ou cURL para 
 
 - `GET /alunos` - Listar todos os alunos
 - `POST /alunos` - Criar um novo aluno
-- `POST /fotos` - Criar um novo aluno
+- `POST /fotos` - Inserir foto para Aluno
 - `PUT /alunos/:id` - Atualizar um aluno existente
 - `DELETE /alunos/:id` - Deletar um aluno
 
